@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "0默认文档",
-      "path": "0默认文档.md"
+      "basename": "周报",
+      "path": "周报.md"
     },
     {
-      "basename": "test",
-      "path": "test.md"
+      "basename": "test1",
+      "path": "test1.md"
+    },
+    {
+      "basename": "0默认文档",
+      "path": "0默认文档.md"
     },
     {
       "basename": "欢迎",
@@ -123,10 +127,6 @@
     {
       "basename": "ANDA 申报",
       "path": "知识库/FDA/ANDA 申报.md"
-    },
-    {
-      "basename": "周报",
-      "path": "周报.md"
     },
     {
       "basename": "定时任务-毛毛",
