@@ -11,15 +11,10 @@
             "id": "a9eb5bdfaedffe85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "新标签页"
             }
           }
         ]
@@ -222,6 +217,10 @@
   },
   "active": "a9eb5bdfaedffe85",
   "lastOpenFiles": [
+    "日常/未命名.canvas",
+    "日常/摘要.png",
+    "日常/国家新兴产业示范基地创建方案评价要点-摘要.md",
+    "日常",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/核心配置AI回答grok.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/核心配置AI回答gpt.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/核心配置AI回答gemini.md",
@@ -249,18 +248,14 @@
     "Openclaw/公司openclaw/配置文件/多agent配置",
     "Openclaw/公司openclaw/自动流程/领退料单出入库skill.md",
     "Openclaw/公司openclaw/自动流程/实验记录审核",
-    "Openclaw/Openclaw个人/核心配置文件260307 个人/核心配置AI回答grok.md",
-    "Openclaw/Openclaw个人/核心配置文件260307 个人/核心配置AI回答gpt.md",
-    "Openclaw/Openclaw个人/核心配置文件260307 个人/核心配置AI回答gemini.md",
     "Openclaw/公司openclaw/配置文件",
     "Openclaw/公司openclaw/自动流程",
-    "Openclaw/Openclaw个人/核心配置文件260307 个人",
-    "Openclaw/Openclaw个人/子agent配置",
+    "Openclaw/公司openclaw/关键文件备份.md",
     "Openclaw/公司openclaw",
-    "Openclaw/Openclaw应用",
+    "Openclaw/Openclaw学习",
+    "reports",
+    "skills/feishu-doc-manager/docs/images/feishu-permission-import.png",
     "Openclaw/20260318分享.canvas",
-    "日常/未命名.canvas",
-    "日常/摘要.png",
     "Pasted image 20260325170513.png",
     "img_v3_02vo_42aeef53-12df-4e32-b34b-d5260b45e38g 3.jpg",
     "img_v3_02vo_42aeef53-12df-4e32-b34b-d5260b45e38g 2.jpg",
@@ -269,7 +264,6 @@
     "Pasted image 20260313113951.png",
     "Pasted image 20260313112535.png",
     "Pasted image 20260313114002.png",
-    "Pasted image 20260313133640.png",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas"
