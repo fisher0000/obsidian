@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
       "basename": "欢迎",
       "path": "欢迎.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "0默认文档",
       "path": "0默认文档.md"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
     },
     {
       "basename": "SAMR 药品注册管理办法 20200122 - 识林",
