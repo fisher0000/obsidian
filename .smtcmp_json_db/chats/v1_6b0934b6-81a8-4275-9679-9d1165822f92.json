@@ -1,0 +1,76 @@
+{
+  "id": "6b0934b6-81a8-4275-9679-9d1165822f92",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@头孢噻肟钠_3.2.S.3.2 … (9 字符)",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "头孢噻肟钠_3.2.S.3.2 杂质审核报告.md (9 字符)",
+                  "mentionable": {
+                    "type": "block",
+                    "file": "头孢噻肟钠_3.2.S.3.2 杂质审核报告.md",
+                    "startLine": 6,
+                    "endLine": 6,
+                    "source": "selection",
+                    "contentHash": "e532ec96"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "b4caa237-8ee5-46d3-b769-3eafbfbc2e5d",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "孢噻肟钠（无菌，原料药",
+          "file": "头孢噻肟钠_3.2.S.3.2 杂质审核报告.md",
+          "startLine": 6,
+          "endLine": 6,
+          "source": "selection",
+          "contentHash": "e532ec96"
+        }
+      ],
+      "selectedSkills": []
+    }
+  ],
+  "createdAt": 1773130209043,
+  "updatedAt": 1773130209043,
+  "schemaVersion": 1,
+  "overrides": null
+}

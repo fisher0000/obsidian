@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"da30eaa896bd848c","type":"text","text":"**Markdown 文件格式介绍**\nhttps://j0eukrlohu.feishu.cn/docx/RU9fdh7NuoZ8FNxOeulcPzITnIh","x":-1800,"y":-520,"width":250,"height":100},
+		{"id":"6e6a6706890f6a71","type":"text","text":"**记录本审核skill**\nhttps://j0eukrlohu.feishu.cn/docx/NCXbd1h6eoDfdgxGN42cuZOinkf","x":-1800,"y":-360,"width":250,"height":100},
+		{"id":"6d18ec47478ab523","type":"file","file":"Openclaw/公司openclaw/自动流程/实验记录审核/exp-record-audit-V03.md","x":-1460,"y":-360,"width":160,"height":100},
+		{"id":"9ba2bd6ba163d0ff","type":"file","file":"Openclaw/Openclaw 未来.md","x":-1800,"y":-200,"width":250,"height":100},
+		{"id":"10d85dbce169884c","type":"file","file":"Openclaw/Openclaw个人/子agent配置/gemini.md","x":-1800,"y":-680,"width":250,"height":100,"color":"5"},
+		{"id":"11d460525223c055","type":"file","file":"Openclaw/摘要.md","x":-2140,"y":-470,"width":160,"height":200}
+	],
+	"edges":[
+		{"id":"e2dc1a970427130c","fromNode":"6e6a6706890f6a71","fromSide":"right","toNode":"6d18ec47478ab523","toSide":"left"},
+		{"id":"aabb3584c52d086c","fromNode":"11d460525223c055","fromSide":"right","toNode":"10d85dbce169884c","toSide":"left"},
+		{"id":"889ef660331312ac","fromNode":"11d460525223c055","fromSide":"right","toNode":"da30eaa896bd848c","toSide":"left"},
+		{"id":"063ef5e6b31d1dd6","fromNode":"11d460525223c055","fromSide":"right","toNode":"6e6a6706890f6a71","toSide":"left"},
+		{"id":"6c2b7173357c5dc3","fromNode":"11d460525223c055","fromSide":"right","toNode":"9ba2bd6ba163d0ff","toSide":"left"}
+	]
+}

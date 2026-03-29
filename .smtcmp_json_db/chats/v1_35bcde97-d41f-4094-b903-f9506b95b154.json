@@ -1,0 +1,56 @@
+{
+  "id": "35bcde97-d41f-4094-b903-f9506b95b154",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "深入解释",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "3429f0e6-1f44-4811-a78d-ae841b58f898",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "webpage-screenshot",
+          "file": "2026-03-09.md",
+          "startLine": 9,
+          "endLine": 9,
+          "source": "selection",
+          "contentHash": "3f8a4869"
+        }
+      ],
+      "selectedSkills": []
+    }
+  ],
+  "createdAt": 1773282297362,
+  "updatedAt": 1773282297362,
+  "schemaVersion": 1,
+  "overrides": null
+}

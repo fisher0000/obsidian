@@ -1,0 +1,105 @@
+{
+  "id": "94459601-7018-4a70-9bdd-7b23ecdb3944",
+  "title": "头孢噻肟钠杂质审核报告总结",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@头孢噻肟钠_3.2.S.3.2 杂质审核报…",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "头孢噻肟钠_3.2.S.3.2 杂质审核报告.md",
+                  "mentionable": {
+                    "type": "current-file",
+                    "file": "头孢噻肟钠_3.2.S.3.2 杂质审核报告.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 200字总结",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "snapshotRef": {
+        "hash": "f0b852c0"
+      },
+      "id": "5c61e0ab-e46d-4839-9909-bc7d7ee39d65",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "头孢噻肟钠_3.2.S.3.2 杂质审核报告.md"
+        }
+      ],
+      "selectedSkills": [],
+      "reasoningLevel": "off"
+    },
+    {
+      "role": "assistant",
+      "content": "根据您的要求，以下是对《头孢噻肟钠_3.2.S.3.2 杂质审核报告》的总结，约200字：\n\n该报告对头孢噻肟钠原料药CTD 3.2.S.3.2杂质章节进行了全面审核。文件整体质量良好，杂质谱分析完整，覆盖了有机杂质、残留溶剂、元素杂质和遗传毒性杂质等类别，限度制定有充分数据支持，符合ICH Q3系列及M7指导原则要求。分析方法均经过验证，工艺清除研究证明了关键杂质的有效控制。报告提出了几点改进建议：建议将1类遗传毒性杂质2-巯基苯并噻唑（限度28.6ppm）和1类溶剂苯订入质量标准；明确重金属检查的订标。总体评价认为，该章节在补充建议项后，符合注册申报要求。",
+      "id": "240f7437-fb11-400e-9573-f510e2927141",
+      "metadata": {
+        "model": {
+          "providerId": "Ali",
+          "providerType": "openai",
+          "id": "Ali/deepseek-v3.2",
+          "model": "deepseek-v3.2",
+          "name": "DS",
+          "reasoningType": "none",
+          "enable": true,
+          "toolType": "none"
+        },
+        "generationState": "completed",
+        "usage": {
+          "prompt_tokens": 4329,
+          "completion_tokens": 188,
+          "total_tokens": 4517,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          }
+        },
+        "durationMs": 6745
+      }
+    }
+  ],
+  "createdAt": 1773131570718,
+  "updatedAt": 1773131577312,
+  "schemaVersion": 1,
+  "overrides": {
+    "chatMode": "chat"
+  },
+  "conversationModelId": "Ali/deepseek-v3.2",
+  "messageModelMap": {
+    "5c61e0ab-e46d-4839-9909-bc7d7ee39d65": "Ali/deepseek-v3.2"
+  },
+  "reasoningLevel": "off"
+}

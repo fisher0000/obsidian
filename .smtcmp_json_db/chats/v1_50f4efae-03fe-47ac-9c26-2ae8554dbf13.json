@@ -1,0 +1,56 @@
+{
+  "id": "50f4efae-03fe-47ac-9c26-2ae8554dbf13",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "提供建议",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "e0709ac9-6c99-4a1f-b3b5-390362c2371f",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": " 使AI以\"资深工艺研发专家\"视角分析问题\n- 确保回答符合制药行业专业语境\n- 建立了与用户的\"专业对话\"基础",
+          "file": "Openclaw案例分享.md",
+          "startLine": 27,
+          "endLine": 29,
+          "source": "selection",
+          "contentHash": "f2c3735f"
+        }
+      ],
+      "selectedSkills": []
+    }
+  ],
+  "createdAt": 1773243772064,
+  "updatedAt": 1773243772064,
+  "schemaVersion": 1,
+  "overrides": null
+}

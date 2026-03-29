@@ -1,0 +1,92 @@
+{
+  "id": "8f2b4a52-1c37-449e-b1e2-24c78d4edf53",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "​添加什么标签合适",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "d69f294b-b604-4b25-8e39-97425ef8796a",
+      "mentionables": [],
+      "selectedSkills": [],
+      "reasoningLevel": "medium"
+    },
+    {
+      "role": "assistant",
+      "content": "# 标签使用建议\n\n您的问题比较宽泛，为了给您更精准的建议，我需要了解更多信息。不过我先提供一些常见场景的标签使用指南：\n\n## 📝 Obsidian 笔记标签常见分类\n\n| 类别 | 推荐标签 | 用途 |\n|------|----------|------|\n| **状态类** | `#状态/待办` `#状态/进行中` `#状态/已完成` | 追踪任务进度 |\n| **类型类** | `#类型/笔记` `#类型/文献` `#类型/会议` `#类型/日记` | 区分内容类型 |\n| **主题类** | `#主题/工作` `#主题/学习` `#主题/生活` | 按主题分类 |\n| **优先级** | `#优先级/高` `#优先级/中` `#优先级/低` | 标记重要程度 |\n| **项目类** | `#项目/XXX` | 关联特定项目 |\n| **人员类** | `#人员/自己` `#人员/团队` `#人员/客户` | 关联相关人员 |\n\n## 🏷️ 标签最佳实践\n\n1. **使用层级结构**：如 `#工作/项目A/设计` 便于筛选\n2. **保持简洁**：标签名不宜过长，一般 2-4 个字为宜\n3. **统一规范**：建立自己的标签体系并坚持使用\n4. **避免过度标签化**：每个笔记 3-5 个核心标签即可\n\n## ❓ 请告诉我更多细节\n\n为了更好地帮助您，请问：\n\n1. **使用场景**：是在 Obsidian 笔记、代码、还是其他平台？\n2. **内容类型**：是日记、任务、知识库、还是其他？\n3. **使用目的**：是为了检索、分类、追踪状态、还是其他？\n\n提供更多信息后，我可以给您更具体的标签建议！",
+      "reasoning": "用户询问\"添加什么标签合适\"，这是一个关于标签使用的问题。但问题比较模糊，没有说明具体场景：\n- 是在 Obsidian 笔记中添加标签？\n- 是在代码中添加标签？\n- 是在什么类型的内容上添加标签？\n\n我需要向用户询问更多上下文信息，以便给出更精准的建议。同时，我可以使用 Obsidian 相关的知识来帮助用户，因为从系统提示来看，这是一个与 Obsidian 相关的助手环境。\n\n让我提供一个全面的回答，涵盖常见的标签使用场景，并询问用户具体需求。",
+      "id": "a038c4f3-9498-459f-a02f-09a6509b518a",
+      "metadata": {
+        "model": {
+          "providerType": "openai",
+          "providerId": "Ali",
+          "id": "Ali/qwen3.5-plus",
+          "model": "qwen3.5-plus",
+          "name": "Qwen",
+          "enable": true,
+          "reasoningType": "generic",
+          "reasoning": {
+            "enabled": true,
+            "reasoning_effort": "medium"
+          }
+        },
+        "generationState": "completed",
+        "usage": {
+          "prompt_tokens": 701,
+          "completion_tokens": 535,
+          "total_tokens": 1236,
+          "completion_tokens_details": {
+            "reasoning_tokens": 115,
+            "text_tokens": 535
+          },
+          "prompt_tokens_details": {
+            "text_tokens": 701
+          }
+        },
+        "durationMs": 10988
+      }
+    }
+  ],
+  "createdAt": 1773220495397,
+  "updatedAt": 1773220506210,
+  "schemaVersion": 1,
+  "overrides": {
+    "chatMode": "chat",
+    "autoAttachCurrentFile": false
+  },
+  "conversationModelId": "Ali/qwen3.5-plus",
+  "messageModelMap": {
+    "d69f294b-b604-4b25-8e39-97425ef8796a": "Ali/qwen3.5-plus"
+  },
+  "reasoningLevel": "medium"
+}

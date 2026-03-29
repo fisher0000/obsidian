@@ -1,0 +1,48 @@
+{
+  "id": "11e8b979-8484-4f41-9a46-e320f8b1d013",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "添加什么标签合适",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "36e6631a-a20b-4e73-b47a-63e9745d16a7",
+      "mentionables": [],
+      "selectedSkills": []
+    }
+  ],
+  "createdAt": 1773220428826,
+  "updatedAt": 1773220507595,
+  "schemaVersion": 1,
+  "overrides": null
+}

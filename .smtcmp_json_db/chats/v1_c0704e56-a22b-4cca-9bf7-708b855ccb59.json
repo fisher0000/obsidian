@@ -1,0 +1,56 @@
+{
+  "id": "c0704e56-a22b-4cca-9bf7-708b855ccb59",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "提供建议",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "491079e9-2ec2-4a67-9d76-95239fe9e044",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "就将该笔记文件删",
+          "file": "欢迎.md",
+          "startLine": 5,
+          "endLine": 5,
+          "source": "selection",
+          "contentHash": "f5f8e458"
+        }
+      ],
+      "selectedSkills": []
+    }
+  ],
+  "createdAt": 1773277329181,
+  "updatedAt": 1773277329181,
+  "schemaVersion": 1,
+  "overrides": null
+}
