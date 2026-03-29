@@ -1,0 +1,420 @@
+{
+  "version": 35,
+  "providers": [
+    {
+      "type": "openai",
+      "id": "openai"
+    },
+    {
+      "type": "anthropic",
+      "id": "anthropic"
+    },
+    {
+      "type": "gemini",
+      "id": "gemini"
+    },
+    {
+      "type": "deepseek",
+      "id": "deepseek"
+    },
+    {
+      "type": "openrouter",
+      "id": "openrouter"
+    },
+    {
+      "type": "openai",
+      "id": "Ali",
+      "baseUrl": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "apiKey": "sk-cf39656e63c24119804428f329bd56cd",
+      "additionalSettings": {}
+    }
+  ],
+  "chatModels": [
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "anthropic/claude-sonnet-4.0",
+      "model": "claude-sonnet-4-0",
+      "enable": false
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "anthropic/claude-opus-4.1",
+      "model": "claude-opus-4-1",
+      "enable": false
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "anthropic/claude-3.7-sonnet",
+      "model": "claude-3-7-sonnet-latest",
+      "enable": false
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "anthropic/claude-3.5-sonnet",
+      "model": "claude-3-5-sonnet-latest",
+      "enable": false
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "anthropic/claude-3.5-haiku",
+      "model": "claude-3-5-haiku-latest",
+      "enable": false
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/gpt-5",
+      "model": "gpt-5",
+      "enable": true
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/gpt-5-mini",
+      "model": "gpt-5-mini",
+      "enable": false
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/gpt-5-nano",
+      "model": "gpt-5-nano",
+      "enable": false
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/gpt-4.1",
+      "model": "gpt-4.1",
+      "enable": true
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/gpt-4.1-mini",
+      "model": "gpt-4.1-mini",
+      "enable": true
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/gpt-4.1-nano",
+      "model": "gpt-4.1-nano",
+      "enable": true
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/gpt-4o",
+      "model": "gpt-4o",
+      "enable": false
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/gpt-4o-mini",
+      "model": "gpt-4o-mini",
+      "enable": false
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/o4-mini",
+      "model": "o4-mini",
+      "enable": false,
+      "reasoning": {
+        "enabled": true,
+        "reasoning_effort": "medium"
+      }
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/o3",
+      "model": "o3",
+      "enable": false,
+      "reasoning": {
+        "enabled": true,
+        "reasoning_effort": "medium"
+      }
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini/gemini-2.5-pro",
+      "model": "gemini-2.5-pro",
+      "enable": false,
+      "thinking": {
+        "enabled": true,
+        "thinking_budget": -1
+      }
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini/gemini-2.5-flash",
+      "model": "gemini-2.5-flash",
+      "enable": false,
+      "thinking": {
+        "enabled": true,
+        "thinking_budget": -1
+      }
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini/gemini-2.5-flash-lite",
+      "model": "gemini-2.5-flash-lite",
+      "enable": false,
+      "thinking": {
+        "enabled": true,
+        "thinking_budget": -1
+      }
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini/gemini-2.0-flash",
+      "model": "gemini-2.0-flash",
+      "enable": false,
+      "thinking": {
+        "enabled": true,
+        "thinking_budget": -1
+      }
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini/gemini-2.0-flash-lite",
+      "model": "gemini-2.0-flash-lite",
+      "enable": false,
+      "thinking": {
+        "enabled": true,
+        "thinking_budget": -1
+      }
+    },
+    {
+      "providerType": "deepseek",
+      "providerId": "deepseek",
+      "id": "deepseek/deepseek-chat",
+      "model": "deepseek-chat",
+      "enable": false
+    },
+    {
+      "providerType": "deepseek",
+      "providerId": "deepseek",
+      "id": "deepseek/deepseek-reasoner",
+      "model": "deepseek-reasoner",
+      "enable": false
+    },
+    {
+      "providerType": "openai",
+      "providerId": "Ali",
+      "id": "Ali/qwen3.5-plus",
+      "model": "qwen3.5-plus",
+      "name": "Qwen",
+      "enable": true,
+      "reasoningType": "generic"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "Ali",
+      "id": "Ali/deepseek-v3.2",
+      "model": "deepseek-v3.2",
+      "name": "DS",
+      "enable": true,
+      "reasoningType": "none"
+    }
+  ],
+  "embeddingModels": [
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/text-embedding-3-small",
+      "model": "text-embedding-3-small",
+      "dimension": 1536
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/text-embedding-3-large",
+      "model": "text-embedding-3-large",
+      "dimension": 3072
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini/text-embedding-004",
+      "model": "text-embedding-004",
+      "dimension": 768
+    }
+  ],
+  "chatModelId": "Ali/qwen3.5-plus",
+  "applyModelId": "Ali/qwen3.5-plus",
+  "embeddingModelId": "openai/text-embedding-3-small",
+  "systemPrompt": "",
+  "ragOptions": {
+    "enabled": true,
+    "chunkSize": 1000,
+    "thresholdTokens": 20000,
+    "minSimilarity": 0,
+    "limit": 10,
+    "excludePatterns": [],
+    "includePatterns": [],
+    "autoUpdateEnabled": false,
+    "autoUpdateIntervalHours": 24,
+    "lastAutoUpdateAt": 0
+  },
+  "mcp": {
+    "servers": [],
+    "builtinToolOptions": {},
+    "fsEditRequireReview": false
+  },
+  "skills": {
+    "disabledSkillIds": []
+  },
+  "yolo": {
+    "baseDir": "YOLO"
+  },
+  "chatOptions": {
+    "includeCurrentFileContent": true,
+    "mentionDisplayMode": "inline",
+    "chatApplyMode": "review-required",
+    "chatTitlePrompt": "",
+    "baseModelSpecialPrompt": "",
+    "chatMode": "chat",
+    "agentModeWarningConfirmed": false,
+    "reasoningLevelByModelId": {},
+    "historyArchiveEnabled": true,
+    "historyArchiveThreshold": 50
+  },
+  "continuationOptions": {
+    "continuationModelId": "Ali/qwen3.5-plus",
+    "enableSmartSpace": true,
+    "enableSelectionChat": true,
+    "persistSelectionHighlight": true,
+    "manualContextEnabled": false,
+    "manualContextFolders": [],
+    "referenceRuleFolders": [],
+    "knowledgeBaseFolders": [],
+    "stream": true,
+    "useVaultSearch": false,
+    "maxContinuationChars": 8000,
+    "enableTabCompletion": false,
+    "tabCompletionModelId": "openai/gpt-4.1-mini",
+    "tabCompletionOptions": {
+      "idleTriggerEnabled": false,
+      "autoTriggerDelayMs": 3000,
+      "autoTriggerCooldownMs": 15000,
+      "triggerDelayMs": 3000,
+      "minContextLength": 20,
+      "contextRange": 4000,
+      "maxSuggestionLength": 2000,
+      "temperature": 0.5,
+      "requestTimeoutMs": 12000
+    },
+    "tabCompletionTriggers": [
+      {
+        "id": "sentence-end-comma",
+        "type": "string",
+        "pattern": ", ",
+        "enabled": true
+      },
+      {
+        "id": "sentence-end-chinese-comma",
+        "type": "string",
+        "pattern": "，",
+        "enabled": true
+      },
+      {
+        "id": "sentence-end-colon",
+        "type": "string",
+        "pattern": ": ",
+        "enabled": true
+      },
+      {
+        "id": "sentence-end-chinese-colon",
+        "type": "string",
+        "pattern": "：",
+        "enabled": true
+      },
+      {
+        "id": "newline",
+        "type": "regex",
+        "pattern": "\\n$",
+        "enabled": true
+      },
+      {
+        "id": "list-item",
+        "type": "regex",
+        "pattern": "(?:^|\\n)[-*+]\\s$",
+        "enabled": true
+      }
+    ],
+    "tabCompletionSystemPrompt": "Your job is to predict the most logical text that should be written at the location of the <mask/>. Your answer can be either code, a single word, or multiple sentences. Your answer must be in the same language as the text that is already there.\n\nAdditional constraints:\n{{tab_completion_constraints}}\n\nOutput only the text that should appear at the <mask/>. Do not include explanations, labels, or formatting.",
+    "tabCompletionConstraints": "",
+    "tabCompletionLengthPreset": "medium",
+    "smartSpaceTriggerMode": "single-space",
+    "smartSpaceUseWebSearch": false,
+    "smartSpaceUseUrlContext": false,
+    "enableQuickAsk": true,
+    "quickAskTrigger": "@",
+    "quickAskMode": "ask",
+    "quickAskAutoDockToTopRight": true,
+    "quickAskContextBeforeChars": 5000,
+    "quickAskContextAfterChars": 2000
+  },
+  "assistants": [
+    {
+      "id": "__default_agent__",
+      "name": "Default",
+      "description": "Default editing agent for sidebar chat.",
+      "systemPrompt": "",
+      "persona": "balanced",
+      "modelId": "openai/gpt-5",
+      "customParameters": [],
+      "enableTools": true,
+      "includeBuiltinTools": true,
+      "enabledToolNames": [],
+      "enabledSkills": [],
+      "skillPreferences": {},
+      "createdAt": 1773126677649,
+      "updatedAt": 1773126928963
+    },
+    {
+      "id": "b8750426-8acf-471c-bc4f-428f882b1337",
+      "name": "新建 Agent",
+      "description": "",
+      "systemPrompt": "",
+      "persona": "balanced",
+      "modelId": "Ali/qwen3.5-plus",
+      "enableTools": true,
+      "includeBuiltinTools": true,
+      "enabledToolNames": [
+        "yolo_local__fs_list",
+        "yolo_local__fs_search",
+        "yolo_local__fs_read",
+        "yolo_local__fs_edit",
+        "yolo_local__fs_file_ops",
+        "yolo_local__open_skill"
+      ],
+      "enabledSkills": [
+        "skill-creator"
+      ],
+      "skillPreferences": {
+        "skill-creator": {
+          "enabled": true
+        }
+      },
+      "createdAt": 1774604507031,
+      "updatedAt": 1774604572471
+    }
+  ],
+  "currentAssistantId": "__default_agent__",
+  "quickAskAssistantId": "__default_agent__"
+}

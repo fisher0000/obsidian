@@ -1,21 +1,22 @@
 {
   "main": {
-    "id": "fde5d8ecb968f3a6",
+    "id": "b707c23e4dc9aac0",
     "type": "split",
     "children": [
       {
-        "id": "1438b81bf3e96b0d",
+        "id": "58f8da760df07ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "c377bc1f321e822a",
+            "id": "a9eb5bdfaedffe85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "test.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "test"
@@ -27,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b19ca96461508cc9",
+    "id": "f13874db7692bca0",
     "type": "split",
     "children": [
       {
-        "id": "0f42fa25311658af",
+        "id": "2575fbb865473b61",
         "type": "tabs",
         "children": [
           {
-            "id": "c76f905e998cdc48",
+            "id": "d4796c5a7061a639",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +49,7 @@
             }
           },
           {
-            "id": "9b44bcfef8421230",
+            "id": "7439f2a14a0a0003",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +66,7 @@
             }
           },
           {
-            "id": "9eb181e202575c85",
+            "id": "aa7a78886b44ed6e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,28 +74,38 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "01526c9352655181",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5026054382324
   },
   "right": {
-    "id": "d1f0a47afee31dc7",
+    "id": "68acf3bdf16f0c0b",
     "type": "split",
     "children": [
       {
-        "id": "b04177ed7fd7d2fa",
+        "id": "a3453fe4a0291776",
         "type": "tabs",
         "children": [
           {
-            "id": "714de60cd05b28bb",
+            "id": "014a4ededaa0b8a6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Openclaw个人/子agent配置/grok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,31 +115,31 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "test 的反向链接列表"
+              "title": "grok 的反向链接列表"
             }
           },
           {
-            "id": "be7e511671cf7a98",
+            "id": "ccff742bf9c71e49",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
-                "linksCollapsed": false,
+                "file": "知识库/ICH/Q1指导原则草案 20250506 - 识林.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "test 的出链列表"
+              "title": "Q1指导原则草案 20250506 - 识林 的出链列表"
             }
           },
           {
-            "id": "eb0f7bfa5d42cbfa",
+            "id": "1969f23d35010bc9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -137,7 +148,7 @@
             }
           },
           {
-            "id": "7211a931f0ec9cd5",
+            "id": "e35c8e7fd2621a3f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,42 +162,116 @@
             }
           },
           {
-            "id": "c79f71a843ef1eca",
+            "id": "0542be9538ced5fe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
-                "followCursor": false,
-                "showSearch": false,
+                "file": "项目/头孢哌酮钠/小试方案.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "小试方案 的大纲"
+            }
+          },
+          {
+            "id": "a3959787d0577749",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Yolo chat"
+            }
+          },
+          {
+            "id": "4a8ed89eebb61e28",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "yolo:打开聊天": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c76f905e998cdc48",
+  "active": "a9eb5bdfaedffe85",
   "lastOpenFiles": [
-    "。gitignore",
-    "新建 文本文档.txt",
-    "test.md"
+    "WT.md",
+    "wt1.md",
+    "知识库/NMPA/SAMR 药品注册管理办法 20200122 - 识林.md",
+    "0默认文档.md",
+    "知识库/ICH/Q14 分析方法开发 20231101 - 识林.md",
+    "知识库/ICH/Q1指导原则草案 20250506 - 识林.md",
+    "知识库/ICH/M4Q(R1) Quality cn - 识林.md",
+    "知识库/ICH/M7 R2 问答文件 20220524 - 识林.md",
+    "知识库/ICH/M7 R2 评估和控制药物中DNA反应性致突变杂质以限制潜在致癌风险 20230403 - 识林.md",
+    "知识库/ICH/Q1B 稳定性试验新原料药和制剂的光稳定性试验 19961106 - 识林.md",
+    "知识库/ICH/Q1A R2 新原料药和制剂的稳定性试验 20030206 - 识林.md",
+    "Clippings/一文看懂什么是 YAML？.md",
+    "Clippings/You said  你可以怎么样帮我更好的学习知识 1.md",
+    "Openclaw/日报评估工作流程.md",
+    "欢迎.md",
+    "定时任务-郑总.md",
+    "创建链接.md",
+    "Openclaw/Drawing 2026-03-27 17.36.15.excalidraw.md",
+    "Basic formatting syntax.md",
+    "未命名.md",
+    "未命名 1.md",
+    "未命名 2.md",
+    "知识库/EMA/EMA 关于非致突变杂质的界定的思考性文件 Reflection paper on the qualification of non-mutagenic impurities 20260313 - 识林.md",
+    "知识库/NMPA/广东省药品注册研发质量管理指南（征求意见稿）康利华解读 - 识林.md",
+    "知识库/NMPA/NMPA 化学药品注册分类及申报资料要求 20200629 - 识林.md",
+    "知识库/NMPA/CFDI 药品注册核查要点与判定原则药学研制和生产现场试行 20211217 - 识林.md",
+    "知识库/研究专题",
+    "知识库/NMPA",
+    "Openclaw/20260318分享.canvas",
+    "知识库/EMA",
+    "知识库/FDA",
+    "知识库/ICH",
+    "知识库",
+    "Clippings",
+    "日常/摘要.png",
+    "Pasted image 20260325170513.png",
+    "日常/未命名.canvas",
+    "日记",
+    "日常",
+    "Openclaw/Openclaw应用",
+    "img_v3_02vo_42aeef53-12df-4e32-b34b-d5260b45e38g 3.jpg",
+    "img_v3_02vo_42aeef53-12df-4e32-b34b-d5260b45e38g 2.jpg",
+    "img_v3_02vo_42aeef53-12df-4e32-b34b-d5260b45e38g 1.jpg",
+    "img_v3_02vo_42aeef53-12df-4e32-b34b-d5260b45e38g.jpg",
+    "Pasted image 20260313113951.png",
+    "Pasted image 20260313112535.png",
+    "Pasted image 20260313114002.png",
+    "Pasted image 20260313133640.png",
+    "未命名 1.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas"
   ]
 }
