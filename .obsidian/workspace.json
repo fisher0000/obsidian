@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/创建链接.md",
+                "file": "0默认文档.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "创建链接"
+              "title": "0默认文档"
             }
           }
         ]
@@ -220,20 +220,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4796c5a7061a639",
+  "active": "4dc0cb39a31d2efc",
   "lastOpenFiles": [
+    "创建链接.md",
     "0默认文档.md",
-    "New/未命名 3.md",
+    "未命名.md",
+    "欢迎.md",
+    "未命名 1.md",
+    "test1.md",
+    "未命名 3.md",
     "New",
     "Attachments",
-    "New/周报.md",
-    "New/未命名.md",
-    "New/未命名 2.md",
-    "New/未命名 1.md",
-    "New/欢迎.md",
-    "New/定时任务-郑总.md",
-    "New/创建链接.md",
-    "New/test1.md",
+    "周报.md",
+    "未命名 2.md",
+    "定时任务-郑总.md",
     "知识库/研究专题/分类研发质量体系 - 识林.md",
     "知识库/研究专题/分类基因毒性杂质 - 识林.md",
     "知识库/NMPA/广东省药品注册研发质量管理指南（征求意见稿）康利华解读 - 识林.md",
