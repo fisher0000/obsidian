@@ -11,10 +11,15 @@
             "id": "4dc0cb39a31d2efc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "New/创建链接.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "创建链接"
             }
           }
         ]
@@ -215,18 +220,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4dc0cb39a31d2efc",
+  "active": "d4796c5a7061a639",
   "lastOpenFiles": [
-    "Attachments",
-    "周报.md",
-    "未命名.md",
-    "未命名 2.md",
-    "未命名 1.md",
-    "欢迎.md",
-    "定时任务-郑总.md",
-    "创建链接.md",
-    "test1.md",
     "0默认文档.md",
+    "New/未命名 3.md",
+    "New",
+    "Attachments",
+    "New/周报.md",
+    "New/未命名.md",
+    "New/未命名 2.md",
+    "New/未命名 1.md",
+    "New/欢迎.md",
+    "New/定时任务-郑总.md",
+    "New/创建链接.md",
+    "New/test1.md",
     "知识库/研究专题/分类研发质量体系 - 识林.md",
     "知识库/研究专题/分类基因毒性杂质 - 识林.md",
     "知识库/NMPA/广东省药品注册研发质量管理指南（征求意见稿）康利华解读 - 识林.md",
@@ -242,7 +249,6 @@
     "知识库/ICH/Q7 原料药的药品生产质量管理规范指南 20001110 - 识林.md",
     "知识库/ICH/Q3E 指导原则草案 20250926 - 识林.md",
     "知识库/ICH/Q3D R2 元素杂质指导原则 20220426 - 识林.md",
-    "知识库/ICH/Q3C R9 杂质残留溶剂的指导原则 20240124 - 识林.md",
     "知识库/研究专题",
     "知识库/NMPA",
     "知识库/ICH",
@@ -251,8 +257,6 @@
     "知识库",
     "项目/项目周报",
     "项目/艾普拉唑",
-    "项目/氟氧头孢",
-    "项目/未命名 4",
     "日常/未命名.canvas",
     "日常/摘要.png",
     "Openclaw/20260318分享.canvas",

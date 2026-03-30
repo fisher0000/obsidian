@@ -1,5 +1,18 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "创建链接",
+      "path": "New/创建链接.md"
+    },
+    {
+      "basename": "0默认文档",
+      "path": "0默认文档.md"
+    },
+    {
+      "basename": "未命名 3",
+      "path": "New/未命名 3.md"
+    }
+  ],
   "omittedPaths": [],
   "omittedTags": [],
   "updateOn": "file-open",
