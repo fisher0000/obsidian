@@ -30,7 +30,7 @@
               "state": {
                 "file": "未命名 1.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
