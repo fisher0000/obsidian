@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/ICH/Q1B 稳定性试验新原料药和制剂的光稳定性试验 19961106 - 识林.md",
+                "file": "周报.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Q1B 稳定性试验新原料药和制剂的光稳定性试验 19961106 - 识林"
+              "title": "周报"
             }
           }
         ]
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "知识库/ICH/Q1B 稳定性试验新原料药和制剂的光稳定性试验 19961106 - 识林.md"
+                "file": "周报.md"
               },
               "icon": "lucide-info",
-              "title": "Q1B 稳定性试验新原料药和制剂的光稳定性试验 19961106 - 识林的笔记属性"
+              "title": "周报的笔记属性"
             }
           }
         ],
@@ -234,6 +234,7 @@
   },
   "active": "d8d61a42b8ce074c",
   "lastOpenFiles": [
+    "知识库/ICH/Q1B 稳定性试验新原料药和制剂的光稳定性试验 19961106 - 识林.md",
     "知识库/ICH/Q2 R2 分析方法验证 20231101 - 识林.md",
     "实验记录审核技能 SKILL20260402.md",
     "实验记录审核技能 V06.md",
@@ -260,7 +261,6 @@
     "知识库/NMPA CFDA CFDI/CFDI 药品注册核查工作程序试行 20211217 - 识林.md",
     "知识库/研究专题/分类研发质量体系 - 识林.md",
     "周报.md",
-    "test1.md",
     "未整理",
     "Attachments",
     "知识库/研究专题",
