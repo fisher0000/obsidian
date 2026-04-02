@@ -15,7 +15,7 @@
               "state": {
                 "file": "实验记录审核技能 v4.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
