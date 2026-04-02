@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实验记录审核技能 V06.md",
-                "mode": "source",
-                "source": false,
+                "file": "SKILL.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "实验记录审核技能 V06"
+              "title": "SKILL"
             }
           }
         ]
@@ -222,9 +222,11 @@
   },
   "active": "d8d61a42b8ce074c",
   "lastOpenFiles": [
+    "实验记录审核技能 V06.md",
+    "SKILL.md",
+    "Clippings/SKILL.md",
     "未命名 1.md",
     "未命名.md",
-    "实验记录审核技能 V06.md",
     "欢迎.md",
     "0基本语法.md",
     "知识库/研究专题/分类基因毒性杂质 - 识林 1.md",
@@ -249,8 +251,6 @@
     "未整理",
     "Attachments",
     "知识库/NMPA CFDA CFDI/广东省药品注册研发质量管理指南（征求意见稿）康利华解读 - 识林.md",
-    "知识库/NMPA CFDA CFDI/SAMR 药品注册管理办法 20200122 - 识林.md",
-    "知识库/NMPA CFDA CFDI/NMPA 药品记录与数据管理要求试行 20200624 - 识林.md",
     "知识库/研究专题",
     "知识库/NMPA CFDA CFDI",
     "知识库/ICH",
