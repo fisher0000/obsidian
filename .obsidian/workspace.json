@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "SKILL.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
@@ -195,9 +195,21 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d7bb5d751c918f6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "SKILL.md"
+              },
+              "icon": "lucide-info",
+              "title": "SKILL的笔记属性"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -222,8 +234,8 @@
   },
   "active": "d8d61a42b8ce074c",
   "lastOpenFiles": [
-    "实验记录审核技能 V06.md",
     "SKILL.md",
+    "实验记录审核技能 V06.md",
     "Clippings/SKILL.md",
     "未命名 1.md",
     "未命名.md",
