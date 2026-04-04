@@ -85,7 +85,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eaa27d24454c16a7",
+  "active": "01526c9352655181",
   "lastOpenFiles": [
     "欢迎.md",
     "0基本语法.md",
