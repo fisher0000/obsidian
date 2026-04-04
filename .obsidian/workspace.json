@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sync_config.md",
+                "file": "0基本语法.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "sync_config"
+              "title": "0基本语法"
             }
           }
         ]
@@ -202,10 +202,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "sync_config.md"
+                "file": "0基本语法.md"
               },
               "icon": "lucide-info",
-              "title": "sync_config的笔记属性"
+              "title": "0基本语法的笔记属性"
             }
           }
         ],
@@ -234,18 +234,18 @@
   },
   "active": "eaa27d24454c16a7",
   "lastOpenFiles": [
+    "欢迎.md",
+    "0基本语法.md",
+    "sync_config.md",
     "未命名 1.md",
     "Attachments/Luban_1772699629520f4851346-ff95-496a-98f6-7a1591b7964b.jpeg",
     "未命名.md",
-    "欢迎.md",
     "周报.md",
-    "0基本语法.md",
     "Openclaw/实验记录审核技能 SKILL20260402.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/核心配置AI回答gpt.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/核心配置AI回答grok.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件 old/HEARTBEAT.md.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件 old/AGENTS.md.md",
-    "sync_config.md",
     "create_scheduled_task.ps1",
     "sync_knowledge_base.ps1",
     "Clippings/一文看懂什么是 YAML？.md",
