@@ -15,7 +15,7 @@
               "state": {
                 "file": "0基本语法.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -85,12 +85,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5
   },
   "right": {
     "id": "68acf3bdf16f0c0b",
@@ -233,7 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eaa27d24454c16a7",
+  "active": "d4796c5a7061a639",
   "lastOpenFiles": [
     "欢迎.md",
     "0基本语法.md",
