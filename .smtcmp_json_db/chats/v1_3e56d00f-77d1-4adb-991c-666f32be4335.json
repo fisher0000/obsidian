@@ -1,0 +1,76 @@
+{
+  "id": "3e56d00f-77d1-4adb-991c-666f32be4335",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@未命名 1.md (1 字符)",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "未命名 1.md (1 字符)",
+                  "mentionable": {
+                    "type": "block",
+                    "file": "未命名 1.md",
+                    "startLine": 22,
+                    "endLine": 22,
+                    "source": "selection",
+                    "contentHash": "4e9f4e7d"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "  求和",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "b8f82ef2-cdb0-48b7-8d2d-7cf814e4addc",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": "0.3460%",
+          "file": "未命名 1.md",
+          "startLine": 22,
+          "endLine": 22,
+          "source": "selection",
+          "contentHash": "4e9f4e7d"
+        }
+      ],
+      "selectedSkills": []
+    }
+  ],
+  "createdAt": 1775273031376,
+  "updatedAt": 1775273031376,
+  "schemaVersion": 1,
+  "overrides": null
+}

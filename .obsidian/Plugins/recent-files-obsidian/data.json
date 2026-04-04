@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "sync_config",
+      "path": "sync_config.md"
+    },
+    {
       "basename": "未命名 1",
       "path": "未命名 1.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "AGENTS.md",
       "path": "Openclaw/公司openclaw/配置文件/核心配置文件 old/AGENTS.md.md"
-    },
-    {
-      "basename": "sync_config",
-      "path": "sync_config.md"
     },
     {
       "basename": "一文看懂什么是 YAML？",
