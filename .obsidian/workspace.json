@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "0基本语法.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -233,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01526c9352655181",
+  "active": "eaa27d24454c16a7",
   "lastOpenFiles": [
     "欢迎.md",
     "0基本语法.md",
