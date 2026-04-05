@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
+    },
+    {
+      "basename": "欢迎",
+      "path": "欢迎.md"
+    },
+    {
       "basename": "0基本语法",
       "path": "0基本语法.md"
     },
@@ -45,20 +57,8 @@
       "path": "日记.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
       "basename": "周报",
       "path": "周报.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
-    },
-    {
-      "basename": "欢迎",
-      "path": "欢迎.md"
     },
     {
       "basename": "sync_config",
