@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Openclaw/公司openclaw/配置文件/核心配置文件260307/@MEMORY.md.md",
+                "file": "Openclaw/公司openclaw/配置文件/核心配置文件260307/@AGENTS.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "@MEMORY.md"
+              "title": "@AGENTS.md"
             }
           }
         ]
@@ -234,6 +234,7 @@
   },
   "active": "eaa27d24454c16a7",
   "lastOpenFiles": [
+    "Openclaw/公司openclaw/配置文件/核心配置文件260307/@MEMORY.md.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/@AGENTS.md.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/@IDENTITY.md.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/@USER.md.md",
@@ -262,7 +263,6 @@
     "实验记录审核技能 V06.md",
     "Clippings/SKILL.md",
     "KB/研究专题/分类基因毒性杂质 - 识林 1.md",
-    "知识库/研究专题/分类基因毒性杂质 - 识林.md",
     "未命名",
     "未整理",
     "Attachments",
