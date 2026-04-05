@@ -61,10 +61,6 @@
       "path": "周报.md"
     },
     {
-      "basename": "sync_config",
-      "path": "sync_config.md"
-    },
-    {
       "basename": "核心配置AI回答gpt",
       "path": "Openclaw/公司openclaw/配置文件/核心配置文件260307/核心配置AI回答gpt.md"
     },

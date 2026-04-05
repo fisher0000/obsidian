@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.50260543823242
+    "width": 200
   },
   "right": {
     "id": "68acf3bdf16f0c0b",
@@ -213,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,8 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3959787d0577749",
+  "active": "d606b455ea89cc82",
   "lastOpenFiles": [
+    "sync_config.md",
+    "未命名.md",
     "未命名 1.md",
     "欢迎.md",
     "0基本语法.md",
@@ -246,9 +248,7 @@
     "Openclaw/实验记录审核技能 SKILL20260402.md",
     "KB/FDA/ANDA 申报.md",
     "日记.md",
-    "未命名.md",
     "周报.md",
-    "sync_config.md",
     "Attachments/Luban_1772699629520f4851346-ff95-496a-98f6-7a1591b7964b.jpeg",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/核心配置AI回答gpt.md",
     "Openclaw/公司openclaw/配置文件/核心配置文件260307/核心配置AI回答grok.md",
