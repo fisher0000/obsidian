@@ -30,7 +30,7 @@
               "state": {
                 "file": "0基本语法.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
